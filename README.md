@@ -1,6 +1,6 @@
 # covid-stats
 
-Click here(https://covid-stats2022.herokuapp.com/)  to see the demo !
+Click here(https://testapp12.herokuapp.com/)  to see the demo !
 
 ## Getting Started
 ```
